@@ -1,46 +1,38 @@
-Company Example Extension
+Emzee
 =====================
-This is a short description of what the extension does.
+
 
 Facts
 -----
-- version: 0.1.0
-- extension key: Company_ExampleExtension
-- [extension on Magento Connect](http://www.magentocommerce.com/magento-connect/company-exampleextension-1234.html)
-- Magento Connect 1.0 extension key: magento-community/Company_ExampleExtension
-- Magento Connect 2.0 extension key: http://connect20.magentocommerce.com/community/Company_ExampleExtension
-- [extension on GitHub](https://github.com/company/Company_ExampleExtension)
-- [direct download link](http://connect.magentocommerce.com/community/get/Company_ExampleExtension-0.1.0.tgz)
+- version: 0.0.1
+- extension key: Emzee_
+- [extension on GitHub](https://github.com/mzeis/Emzee_)
 
 Description
 -----------
-This paragraph describes what the extension does.
+
 
 Requirements
 ------------
 - PHP >= 5.2.0
 - Mage_Core
-- ...
+
 
 Compatibility
 -------------
-- Magento >= 1.4
+- Magento 1.7 CE
 
 Installation Instructions
 -------------------------
-1. Install the extension via Magento Connect with the key shown above or copy all the files into your document root.
-2. Clear the cache, logout from the admin panel and then login again.
-3. Configure and activate the extension under System - Configuration - Company - Example Extension.
-4. ...
+1. Install the extension using modman or copy all the files into your document root.
 
 Uninstallation
 --------------
-1. Remove all extension files from your Magento installation
-2. ...
+1. Remove the extension like all other extensions you install using modman.
 
 Support
 -------
-If you have any issues with this extension, open an issue on [GitHub](https://github.com/company/Company_ExampleExtension/issues).
+If you have any issues with this extension, open an issue on [GitHub](https://github.com/mzeis/Emzee_/issues).
 
 Contribution
 ------------
@@ -48,9 +40,9 @@ Any contribution is highly appreciated. The best way to contribute code is to op
 
 Developer
 ---------
-FirstName LastName  
-[http://www.firstname-lastname.com](http://www.firstname-lastname.com)  
-[@FirstNameLastName](https://twitter.com/FirstNameLastName)
+Matthias Zeis
+[http://www.matthias-zeis.com](http://www.matthias-zeis.com)  
+[@mzeis](https://twitter.com/mzeis)
 
 Licence
 -------
@@ -58,4 +50,4 @@ Licence
 
 Copyright
 ---------
-(c) 2012 Company
+(c) 2013 Matthias Zeis
