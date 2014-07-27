@@ -7,8 +7,8 @@ Facts
 - version: 0.1.0
 - [extension on GitHub](https://github.com/mzeis/Emzee_)
 
-Description
------------
+Usage
+-----
 
 
 Compatibility
