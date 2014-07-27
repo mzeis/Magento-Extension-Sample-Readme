@@ -13,7 +13,9 @@ Compatibility
 
 Installation
 ------------
-1. Install the extension using [Composer](https://getcomposer.org/), [modman](https://github.com/colinmollenhour/modman)  or copy all the files to the according Magento direcories manually.
+1. Install the extension using [Composer](https://getcomposer.org/),
+[modman](https://github.com/colinmollenhour/modman) or copy all the
+files to the according Magento directories manually.
 
 Uninstallation
 --------------
@@ -25,11 +27,15 @@ Usage
 
 Support
 -------
-If you have any issues with this extension, open an issue in the GitHub repository. Please provide error messages, debug information like output from the Magento error logs and the exact steps / code to reproduce the issue.
+If you have any issues with this extension, open an issue in the GitHub
+repository. Please provide error messages, debug information like output
+from the Magento error logs and the exact steps / code to reproduce the
+issue.
 
 Contribution
 ------------
-Any contribution is highly appreciated. The best way to contribute code is to open a [pull request on GitHub](https://help.github.com/articles/using-pull-requests).
+Any contribution is highly appreciated. The best way to contribute code is to
+open a [pull request on GitHub](https://help.github.com/articles/using-pull-requests).
 
 Developer
 ---------
