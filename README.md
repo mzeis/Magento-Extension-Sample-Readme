@@ -39,9 +39,7 @@ open a [pull request on GitHub](https://help.github.com/articles/using-pull-requ
 
 Developer
 ---------
-Matthias Zeis
-[http://www.matthias-zeis.com](http://www.matthias-zeis.com)  
-[@mzeis](https://twitter.com/mzeis)
+Matthias Zeis ([matthias-zeis.com](http://www.matthias-zeis.com), [@mzeis](https://twitter.com/mzeis))
 
 Licence
 -------
