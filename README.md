@@ -7,21 +7,21 @@ Facts
 - version: 0.1.0
 - [extension on GitHub](https://github.com/mzeis/Emzee_)
 
-Usage
------
-
-
 Compatibility
 -------------
 - Magento >= CE 1. (may also work in other versions)
 
-Installation Instructions
--------------------------
+Installation
+------------
 1. Install the extension using [Composer](https://getcomposer.org/), [modman](https://github.com/colinmollenhour/modman)  or copy all the files to the according Magento direcories manually.
 
 Uninstallation
 --------------
 1. Remove the files.
+
+Usage
+-----
+
 
 Support
 -------
