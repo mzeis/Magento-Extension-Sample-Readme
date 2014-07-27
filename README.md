@@ -1,38 +1,31 @@
-Emzee
+
 =====================
 
 
 Facts
 -----
-- version: 0.0.1
-- extension key: Emzee_
+- version: 0.1.0
 - [extension on GitHub](https://github.com/mzeis/Emzee_)
 
 Description
 -----------
 
 
-Requirements
-------------
-- PHP >= 5.2.0
-- Mage_Core
-
-
 Compatibility
 -------------
-- Magento 1.7 CE
+- Magento >= CE 1. (may also work in other versions)
 
 Installation Instructions
 -------------------------
-1. Install the extension using modman or copy all the files into your document root.
+1. Install the extension using [Composer](https://getcomposer.org/), [modman](https://github.com/colinmollenhour/modman)  or copy all the files to the according Magento direcories manually.
 
 Uninstallation
 --------------
-1. Remove the extension like all other extensions you install using modman.
+1. Remove the files.
 
 Support
 -------
-If you have any issues with this extension, open an issue on [GitHub](https://github.com/mzeis/Emzee_/issues).
+If you have any issues with this extension, open an issue in the GitHub repository. Please provide error messages, debug information like output from the Magento error logs and the exact steps / code to reproduce the issue.
 
 Contribution
 ------------
@@ -50,4 +43,4 @@ Licence
 
 Copyright
 ---------
-(c) 2013 Matthias Zeis
+(c) 2014 Matthias Zeis
