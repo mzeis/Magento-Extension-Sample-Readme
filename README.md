@@ -4,8 +4,8 @@
 
 Facts
 -----
-- version: 0.1.0
-- [extension on GitHub](https://github.com/mzeis/Emzee_)
+- Version: 1.0.0
+- [Extension on GitHub](https://github.com/mzeis/Mzeis_)
 
 Compatibility
 -------------
@@ -13,9 +13,8 @@ Compatibility
 
 Installation
 ------------
-1. Install the extension using [Composer](https://getcomposer.org/),
-[modman](https://github.com/colinmollenhour/modman) or copy all the
-files to the according Magento directories manually.
+1. Install the extension using [Composer](https://getcomposer.org/) or
+[modman](https://github.com/colinmollenhour/modman).
 
 Uninstallation
 --------------
@@ -27,24 +26,24 @@ Usage
 
 Support
 -------
-If you have any issues with this extension, open an issue in the GitHub
-repository. Please provide error messages, debug information like output
-from the Magento error logs and the exact steps / code to reproduce the
-issue.
+If you have any issues with this extension, please create an issue on GitHub.
+Please provide error messages, debug information like output from the Magento
+error logs and the exact steps / code to reproduce thei ssue.
 
 Contribution
 ------------
 Any contribution is highly appreciated. The best way to contribute code is to
 open a [pull request on GitHub](https://help.github.com/articles/using-pull-requests).
+Always create pull requests against the `dev` branch.
 
-Developer
----------
+Author
+------
 Matthias Zeis ([matthias-zeis.com](http://www.matthias-zeis.com), [@mzeis](https://twitter.com/mzeis))
 
-Licence
+License
 -------
-[OSL - Open Software Licence 3.0](http://opensource.org/licenses/osl-3.0.php)
+[MIT License](LICENSE.md)
 
 Copyright
 ---------
-(c) 2014 Matthias Zeis
+(c) 2015 Matthias Zeis
