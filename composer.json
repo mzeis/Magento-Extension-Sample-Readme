@@ -1,0 +1,12 @@
+{
+    "name": "mzeis/mzeis_",
+    "type": "magento-module",
+    "license": "MIT",
+    "description": "",
+    "authors": [
+        {
+            "name": "Matthias Zeis",
+            "homepage": "http://matthias-zeis.com"
+        }
+    ]
+}
